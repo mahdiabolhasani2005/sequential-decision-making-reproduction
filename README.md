@@ -1,4 +1,5 @@
-# sequential-decision-making-reproduction# Dynamics of Sequential Decision Making — a reproduction
+# sequential-decision-making-reproduction# 
+Dynamics of Sequential Decision Making — a reproduction
 
 A reproduction of Rabinovich, Huerta and Afraimovich, *Dynamics of Sequential Decision
 Making*, Phys. Rev. Lett. 97:188103 (2006), with Python simulations of the model's two
